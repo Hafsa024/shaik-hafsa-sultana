@@ -36,10 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa024&show_icons=true&theme=blue-green)
 
----
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/hafsa-sultanashaik24 

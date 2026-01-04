@@ -32,12 +32,12 @@
    Java | DBMS | SQL  
    Academic project managing doctor schedules and patient appointments.
 
-3. Optional: Add any mini learning repos like `learning-python` or `code-snippets`  
+ 
 
 ---
 
 ### 📊 GitHub Stats
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=blue-green)
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa024&show_icons=true&theme=blue-green)
 
 ---
 

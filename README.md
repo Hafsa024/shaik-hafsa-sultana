@@ -1,31 +1,37 @@
-## Hi, I'm Shaik Hafsa Sultana 👋
+# Hi, I'm Shaik Hafsa Sultana 👋
 
-🎓 MCA Graduate (2024) from Narayana Engineering College (JNTUA)  
-💻 Aspiring Software Developer  
-🌱 Currently strengthening my skills and building academic projects  
+🎓 MCA Graduate (2024) | Aspiring Software Developer  
+💻 Java • Python • C • SQL | Learning & Building Academic Projects  
 
 ---
 
 ### 🛠️ Skills
-- Programming Languages: Java, Python, C  
-- Databases: SQL, MySQL, DBMS  
-- Core Concepts: Data Structures, Computer Networks  
-- Web Basics: HTML, CSS  
-- Fundamentals: Cloud Computing, Cyber Security  
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/python--v1.png"/>
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/48/sql.png"/>
+<br><br>
+
+---
+
+### 🌱 Currently Learning
+- Advanced Python & OOP
+- Web Development (HTML/CSS/JS)
+- Machine Learning & NLP
 
 ---
 
 ### 📌 Projects
-- **Multimodal Deep Learning Crime Prediction Using Tweets**  
-  Python | Machine Learning | NLP  
-  Academic project focused on analyzing crime patterns from social media data.
+- [Crime Prediction Using Tweets](https://github.com/YOUR-USERNAME/crime-prediction-tweets)  
+- [Online Doctor Appointment System](https://github.com/YOUR-USERNAME/online-doctor-appointment)
 
-- **Online Doctor Appointment System**  
-  Java | DBMS  
-  Java-based application to manage doctor schedules and patient appointments.
+---
+
+### 📊 GitHub Stats
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=blue-green)
 
 ---
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/hafsa-sultanashaik24
-- GitHub: https://github.com/hafsa024
+- Email: hafsasultanashaik024@gmail.com

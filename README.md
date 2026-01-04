@@ -27,5 +27,5 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: https://www.linkedin.com/in/hafsa-sultanashaik24
+- GitHub: https://github.com/hafsa024
